@@ -1,0 +1,4 @@
+Goal: Find out the number of flights connections missed because of flight delay
+Data: Flights Data by United State Department of Transportation
+Programming Language: Scala
+Technology: Spark
